@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ObjectList
+comment1.params=capacity
+comment1.target=ObjectList(int)
+comment2.params=object
+comment2.target=boolean\ add(java.lang.Object)
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment4.params=
+comment4.target=boolean\ isFull()
+comment5.params=index
+comment5.target=java.lang.Object\ getObject(int)
+comment6.params=obj
+comment6.target=int\ indexOf(java.lang.Object)
+comment7.params=
+comment7.target=int\ getTotal()
+comment8.params=index
+comment8.target=boolean\ remove(int)
+numComments=9

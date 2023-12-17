@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Member
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Member\ here.\r\n\r\n\ @author\ Tadhg\r\n\ @version\ 10/12/2023\r\n
+comment1.params=name\ address\ phone
+comment1.target=Member(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=payment
+comment2.target=boolean\ makePayment(Payment)
+comment3.params=
+comment3.target=PaymentList\ getPayment()
+comment4.params=
+comment4.target=boolean\ getPaid()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=void\ print()
+numComments=7

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BookList
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BookList\ here.\r\n\r\n\ @author\ Tadhg\r\n\ @version\ 10/12/2023\r\n
+comment1.params=capacity
+comment1.target=BookList(int)
+comment2.params=index
+comment2.target=Book\ getBook(int)
+numComments=3
